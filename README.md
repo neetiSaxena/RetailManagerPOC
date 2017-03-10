@@ -1,0 +1,2 @@
+# RetailManagerPOC
+JAVA Assignment 
